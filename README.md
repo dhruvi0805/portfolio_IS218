@@ -1,5 +1,7 @@
 # IS 218 portfolio
 
+Live site: https://dhruvi0805.github.io/portfolio_IS218/
+
 ## Review 1 · Career research
 
 **Research question.** Which career direction best aligns my UX and product design skills with my goal of working across AI, technology, and business operations?
