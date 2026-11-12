@@ -21,4 +21,7 @@ features:
   - title: Peer review
     details: A source-checking task and a record of review status.
     link: /review
+  - title: Creative Project Plan
+    details: Two programming concepts, the selected workflow, and a planned experiment.
+    link: /creative-plan
 ---

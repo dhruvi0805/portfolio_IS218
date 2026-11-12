@@ -9,15 +9,25 @@ const research = [
 ]
 
 export default defineConfig({
-  title: 'IS 218 Career Research',
-  description: 'A comparison of career paths across engineering, UX, and AI-enabled operations.',
+  title: 'IS 218 Plan Research',
+  description: 'Career research and creative programming research for IS 218.',
   base: '/portfolio_IS218/',
   themeConfig: {
     nav: [
       { text: 'Research', link: '/employers' },
-      { text: 'Portfolio plan', link: '/portfolio' }
+      { text: 'Portfolio plan', link: '/portfolio' },
+      { text: 'Creative Project', link: '/creative-plan' }
     ],
-    sidebar: [{ text: 'Review 1 · Career research', items: research }],
+    sidebar: [
+      { text: 'Review 1 · Career research', items: research },
+      {
+        text: 'Review 1 · Creative Project',
+        items: [
+          { text: 'Project plan', link: '/creative-plan' },
+          { text: 'Evidence and review', link: '/creative-evidence' }
+        ]
+      }
+    ],
     search: { provider: 'local' },
     socialLinks: [{ icon: 'github', link: repository }],
     editLink: {
