@@ -6,7 +6,7 @@ Which career direction best aligns my UX and product design skills with my goal 
 
 - **FDE · Palantir.** Customer-facing software development and programming proficiency. This is my engineering benchmark. The posting does not establish how much AI work an individual deployment involves.
 - **AI product design · DoorDash.** AI-assisted exploration and prototyping, cross-functional collaboration, and user testing.
-- **AI-enabled operations · Accenture.** Procurement analysis and recommendations for business workflows. This example is provisional for the other-industry requirement.
+- **AI-enabled operations · Accenture.** Analysts use AI in daily sourcing and procurement workflows and are expected to check the outputs. I classify this as AI-enabled operations in procurement consulting because the work centers on spending and sourcing decisions. See [Employer research](./employers.md) for locations and the original posting.
 
 See [Employer research](./employers.md) for original postings, dates, eligibility requirements, and skill gaps.
 
