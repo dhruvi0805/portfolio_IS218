@@ -9,4 +9,4 @@ After feedback, record the issue URL, the response and rationale, any accepted d
 ## Submission links
 
 - [GitHub repository](https://github.com/dhruvi0805/portfolio_IS218)
-- Add a link here to the separate AI/programming exploration site when its URL is available. Link back from that site.
+- [Creative Project Plan · AI/programming research](https://dhruvi0805.github.io/is218-creative-research/)
